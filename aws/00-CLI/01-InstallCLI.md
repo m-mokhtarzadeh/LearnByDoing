@@ -4,7 +4,7 @@ curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip
 unzip awscliv2.zip
 sudo ./aws/install
 ```
-<script async id="asciicast" src="https://asciinema.org/connect/280da90d-2943-43ed-9b43-0fd712c863a1"></script>
+![Installation](./img/InstallCLI/InstallAWSCli.gif)
 ## Install AWS CLI on windows client
 ```ps
 msiexec.exe /i https://awscli.amazonaws.com/AWSCLIV2.msi
